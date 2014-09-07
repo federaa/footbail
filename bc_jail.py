@@ -1,3 +1,4 @@
+import mechanize
 import requests
 import csv
 from BeautifulSoup import BeautifulSoup
@@ -45,3 +46,5 @@ def get_inmates():
  
 if __name__=='__main__':
     print get_inmates()
+
+    ##

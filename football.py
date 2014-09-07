@@ -1,3 +1,4 @@
+#The main program to run 
 import tigers, bc_jail
  
 players = tigers.get_players()
